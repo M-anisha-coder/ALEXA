@@ -90,5 +90,5 @@ if __name__=="__main__":
 
         elif "open my website" in query:
              speak("opening your website")
-             webbrowser.open("https://code.sololearn.com/Wpd5BR9Z31lE/?ref=app
+             webbrowser.open("https://code.sololearn.com/Wpd5BR9Z31lE/?ref=app")
               
